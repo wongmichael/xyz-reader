@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:design-25.4.0">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/AppData/Local/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/a6f4fd56e2f039c0dc06791bb2f78cf6/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/a6f4fd56e2f039c0dc06791bb2f78cf6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/AppData/Local/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/a6f4fd56e2f039c0dc06791bb2f78cf6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/.gradle/caches/modules-2/files-2.1/com.android.support/design/25.4.0/a2e7ef895fd2463263a7294fff24b86b5461ede8/design-25.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
